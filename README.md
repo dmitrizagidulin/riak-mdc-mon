@@ -58,7 +58,7 @@ where NUMBER is the increasing count of nodes.
 **riak.port** Specifies the port on which to connect to Riak.  
 **riak.useProtocolBuffers** True/False. If false, HTTP will be used.  
 **riak.mdcStatsBucket** Specifies the bucket in Riak where timestamps will
-**be stored.  
+be stored.  
 **dataCenter.id** Specifies the local ID of the local data center which will
 be referenced by other data centers.  
 **remoteDataCenter.count** Specifies the number of remote data centers which
